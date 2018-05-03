@@ -9,7 +9,7 @@
 
 ### 安装
 
-    git clone https://github.com/Happy-LYZ/test.git
+    git clone https://github.com/Happy-LYZ/postcss-pxtorem-demo.git
 
 ### 初始化
 
