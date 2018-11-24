@@ -20,7 +20,7 @@
     ```node
     npm run build 
     ```
-- 执行结果
+#### 执行结果
 ![image](https://github.com/Happy-LYZ/postcss-px2rem/blob/master/img/01.png)
 
 ### TIPS
