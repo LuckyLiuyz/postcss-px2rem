@@ -9,7 +9,7 @@ var fs = require('fs'),
     path = require('path'),
     postcss = require('postcss'),
     util = require('util'),
-    pxtorem = require('./postcss-pxtorem.js');
+    pxtorem = require('./js/postcss-pxtorem.js');
 
 var BASE_DIR = __dirname,
     ARGV = process.argv;
