@@ -1,12 +1,12 @@
 a {
-    width: 5rem;
-    height: 0.005rem;
+    width: 50px; /*index.js中设置默认根目录字体大小为100，所以此处转换后将为：0.5rem*/
+    height: 100px;/*index.js中设置默认根目录字体大小为100，所以此处转换后将为：1rem*/
     background: red;
     border: 1px solid red;
 }
 
 @media screen and (max-width: 100px) {
     body {
-        width: 5rem;
+        width: 500px;/*index.js中设置默认根目录字体大小为100，所以此处转换后将为：5rem*/
     }
 }
