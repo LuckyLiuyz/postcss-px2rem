@@ -24,7 +24,8 @@
 对css文件只匹配了小写的px，如果需要不转换px2rem，则可以在书写css的时候，大写PX，这样浏览器是支持的。
 
 ### 参考
-	<a href="https://github.com/Aralic/postcss-pxtorem">postcss-pxtorem</a>
+[点击前往](https://github.com/Aralic/postcss-pxtorem)
+
    
 ### 预期功能
 
